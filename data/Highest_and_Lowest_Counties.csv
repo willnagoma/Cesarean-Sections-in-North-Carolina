@@ -1,0 +1,73 @@
+County,Attribute,White_Non_Hispanic_Count,White_Non_Hispanic_Percentage,Black_Non_Hispanic_Count,Black_Non_Hispanic_Percentage,Multirace_Other_Non_Hispanic_Count,Multirace_Other_Non_Hispanic_Percentage,Hispanic_Count,Hispanic_Percentage
+Orange,Resident Births,681,100,143,100,137,100,232,100
+Orange,Under 18 Years,3,0.4,1,0.7,0,0,3,1.3
+Orange,18-34 Years,413,60.6,124,86.7,87,63.5,179,77.2
+Orange,35+ Years,265,38.9,18,12.6,50,36.5,50,21.6
+Orange,Less than High School,15,2.2,15,10.5,9,6.6,80,34.5
+Orange,High School Graduate or GED,56,8.2,43,30.1,10,7.3,61,26.3
+Orange,Some College,105,15.4,43,30.1,12,8.8,33,14.2
+Orange,College Degree,504,74.0,42,29.4,105,76.6,54,23.3
+Orange,Vaginal,508,74.6,90,62.9,102,74.5,185,79.7
+Orange,C-Section,172,25.3,53,37.1,35,25.5,47,20.3
+Orange,Inadequate Prenatal Care Index,68,10.0,27,18.9,16,11.7,40,17.2
+Orange,Intermediate Prenatal Care Index,72,10.6,18,12.6,15,10.9,26,11.2
+Orange,Adequate Prenatal Care Index,278,40.8,56,39.2,54,39.4,66,28.4
+Orange,Adequate Plus Prenatal Care Index,237,34.8,37,25.9,44,32.1,63,27.2
+Orange,Underweight (<18.5),20,2.9,4,2.8,9,6.6,2,0.9
+Orange,Normal (18.5-24.9),370,54.3,30,21.0,82,59.9,75,32.3
+Orange,Overweight (25.0-29.9),167,24.5,43,30.1,26,19.0,65,28.0
+Orange,Obese (30.0+),109,16.0,57,39.9,12,8.8,67,28.9
+Craven,Resident Births,765,100,215,100,121,100,134,100
+Craven,Under 18 Years,2,0.3,7,3.3,6,5.0,1,0.7
+Craven,18-34 Years,674,88.1,182,84.7,102,84.3,118,88.1
+Craven,35+ Years,89,11.6,26,12.1,13,10.7,15,11.2
+Craven,Less than High School,41,5.4,29,13.5,19,15.7,15,11.2
+Craven,High School Graduate or GED,171,22.4,66,30.7,43,35.5,39,29.1
+Craven,Some College,329,43.0,93,43.3,39,32.2,56,41.8
+Craven,College Degree,224,29.3,26,12.1,20,16.5,24,17.9
+Craven,Vaginal,583,76.2,148,68.8,94,77.7,101,75.4
+Craven,C-Section,182,23.8,67,31.2,27,22.3,33,24.6
+Craven,Inadequate Prenatal Care Index,105,13.7,49,22.8,28,23.1,33,24.6
+Craven,Intermediate Prenatal Care Index,33,4.3,9,4.2,1,0.8,6,4.5
+Craven,Adequate Prenatal Care Index,256,33.5,72,33.5,47,38.8,55,41.0
+Craven,Adequate Plus Prenatal Care Index,362,47.3,80,37.2,45,37.2,40,29.9
+Craven,Underweight (<18.5),15,2.0,6,2.8,5,4.1,3,2.2
+Craven,Normal (18.5-24.9),304,39.7,69,32.1,49,40.5,39,29.1
+Craven,Overweight (25.0-29.9),218,28.5,47,21.9,32,26.4,34,25.4
+Craven,Obese (30.0+),222,29.0,90,41.9,34,28.1,56,41.8
+Bladen,Resident Births,352,100,150,100,123,100,54,100
+Bladen,Under 18 Years,9,2.6,2,1.3,3,2.4,2,3.7
+Bladen,18-34 Years,300,85.2,125,83.3,112,91.1,42,77.8
+Bladen,35+ Years,43,12.2,23,15.3,8,6.5,10,18.5
+Bladen,Less than High School,56,15.9,23,15.3,12,9.8,2,8.0
+Bladen,High School Graduate or GED,116,33.0,35,23.3,50,40.7,12,48.0
+Bladen,Some College,130,36.9,57,38.0,53,43.1,11,44.0
+Bladen,College Degree,48,13.6,35,23.3,8,6.5,0,0
+Bladen,Vaginal,236,67.0,100,66.7,80,65.0,20,80.0
+Bladen,C-Section,116,33.0,50,33.3,43,35.0,5,20.0
+Bladen,Inadequate Prenatal Care Index,75,21.3,26,17.3,29,23.6,3,12.0
+Bladen,Intermediate Prenatal Care Index,20,5.7,5,3.3,9,7.3,1,4.0
+Bladen,Adequate Prenatal Care Index,113,32.1,54,36.0,36,29.3,9,36.0
+Bladen,Adequate Plus Prenatal Care Index,137,38.9,61,40.7,47,38.2,11,44.0
+Bladen,Underweight (<18.5),9,2.6,4,2.7,4,3.3,1,4.0
+Bladen,Normal (18.5-24.9),114,32.4,54,36.0,36,29.3,7,28.0
+Bladen,Overweight (25.0-29.9),81,23.0,34,22.7,26,21.1,8,32.0
+Bladen,Obese (30.0+),135,38.4,52,34.7,54,43.9,7,28.0
+Bertie,Resident Births,158,100,53,100,102,100,3,100
+Bertie,Under 18 Years,3,1.9,1,1.9,2,2.0,0,0
+Bertie,18-34 Years,139,88.0,48,90.6,89,87.3,2,66.7
+Bertie,35+ Years,16,10.1,4,7.5,11,10.8,1,33.3
+Bertie,Less than High School,15,9.5,4,7.5,10,9.8,1,33.3
+Bertie,High School Graduate or GED,65,41.1,13,24.5,52,51.0,0,0
+Bertie,Some College,56,35.4,24,45.3,31,30.4,1,33.3
+Bertie,College Degree,22,13.9,12,22.6,9,8.8,1,33.3
+Bertie,Vaginal,108,68.4,34,64.2,71,69.6,3,100.0
+Bertie,C-Section,50,31.6,19,35.8,31,30.4,0,0
+Bertie,Inadequate Prenatal Care Index,15,9.5,0,0,14,13.7,1,33.3
+Bertie,Intermediate Prenatal Care Index,4,2.5,0,0,4,3.9,0,0
+Bertie,Adequate Prenatal Care Index,49,31.0,19,35.8,29,28.4,1,33.3
+Bertie,Adequate Plus Prenatal Care Index,88,55.7,33,62.3,54,52.9,1,33.3
+Bertie,Underweight (<18.5),8,5.1,1,1.9,7,6.9,0,0
+Bertie,Normal (18.5-24.9),38,24.1,12,22.6,25,24.5,1,33.3
+Bertie,Overweight (25.0-29.9),31,19.6,10,18.9,20,19.6,1,33.3
+Bertie,Obese (30.0+),80,50.6,30,56.6,49,48.0,1,33.3
