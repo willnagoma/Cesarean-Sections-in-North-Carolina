@@ -1,4 +1,4 @@
-**C-Section Rates in NC: An Interactive Map Dashboard with Python and Streamlit**
+<h1><strong>C-Section Rates in NC: An Interactive Map Dashboard with Python and Streamlit </strong></h1>
 
 This app is designed to explore the factors and implications of low-risk cesarean deliveries.  Low-risk is defined by the CDC as singleton, head-first, full-term (37 or more completed weeks) first births. 
 
@@ -6,7 +6,7 @@ This app is designed to explore the factors and implications of low-risk cesarea
 [Open in Streamlit]
 
 **Screenshot**
-[Insert screenshot]
+![Logo](/Users/lorrainegoma/Desktop/CSectionsNC/GitHubScreenshot.png)
 
 **How to run this app**
 conda install requirements.txt
