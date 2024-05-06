@@ -8,15 +8,15 @@ This app is designed to explore the factors and implications of low-risk cesarea
 **Screenshot**
 ![Logo](/GitHubScreenshot.png)
 
-**How to run this app**
-conda install requirements.txt
+**How to run this app**<br>
+conda install requirements.txt<br>
 streamlit run app.py
 
-**Sources**
-schs.dph.ncdhhs.gov/data/databook 
-ncbi.nlm.nih.gov
-americashealthrankings.org
-leapfroggroup.org
+**Sources**<br>
+[Databook](schs.dph.ncdhhs.gov/data/databook)<br> 
+[National Library of Medicine](ncbi.nlm.nih.gov)<br>
+[American Health Rankings](americashealthrankings.org)<br>
+[The Leapfrog Group](leapfroggroup.org)
 
 **Author**
 Willna Goma
