@@ -6,7 +6,7 @@ This app is designed to explore the factors and implications of low-risk cesarea
 [Open in Streamlit]
 
 **Screenshot**
-![Logo](/Users/lorrainegoma/Desktop/CSectionsNC/GitHubScreenshot.png)
+![Logo](/GitHubScreenshot.png)
 
 **How to run this app**
 conda install requirements.txt
