@@ -14,7 +14,7 @@ from plotly.subplots import make_subplots
 st.write("<h1 style='text-align: center;'>Cesarean Deliveries in North Carolina</h1>", unsafe_allow_html=True)
 st.write("#### <div style='text-align: center; font-style: italic;'>Malpractice or medical necessity?</div>", unsafe_allow_html=True)
 
-image_path = '/Users/lorrainegoma/Desktop/CSectionsNC/delivered_baby.jpeg'
+image_path = '/delivered_baby.jpeg'
 st.image(image_path, use_column_width=True)
 
 st.write("###### <div style='text-align: center; font-weight: normal;'>This app is designed to explore the factors and implications of low-risk cesarean deliveries.  Low-risk is defined by the CDC as singleton, head-first, full-term (37 or more completed weeks) first births.</div>", unsafe_allow_html=True)
