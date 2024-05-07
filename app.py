@@ -182,7 +182,7 @@ groupings = {
 def apply_nicknames(attribute):
     return attribute_nickname_map.get(attribute, attribute)
 
-data = pd.read_csv('/Users/lorrainegoma/Desktop/CSectionsNC/data/Highest_and_Lowest_Counties.csv')
+data = pd.read_csv('data/Highest_and_Lowest_Counties.csv')
 
 selected_group = st.selectbox("Select a Category or Group:", list(groupings.keys()))
 
