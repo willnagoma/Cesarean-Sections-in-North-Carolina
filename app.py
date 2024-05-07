@@ -157,7 +157,7 @@ st.write("Bertie county had the highest rate of C-sections during that period of
 st.markdown("---")
 
 #Interactive bar chart
-data = pd.read_csv('/Users/lorrainegoma/Desktop/CSectionsNC/data/Highest_and_Lowest_Counties.csv')
+data = pd.read_csv('data/Highest_and_Lowest_Counties.csv')
 
 attribute_nickname_map = {
     'Less than High School': '<HS',
