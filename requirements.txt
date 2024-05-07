@@ -8,3 +8,4 @@ protobuf==3.20.3
 statsmodels==0.14.2
 streamlit_folium==0.19.1
 webencodings==0.5.1
+geopandas==0.14.3
