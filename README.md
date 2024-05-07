@@ -2,8 +2,9 @@
 
 This app is designed to explore the factors and implications of low-risk cesarean deliveries.  Low-risk is defined by the CDC as singleton, head-first, full-term (37 or more completed weeks) first births. 
 
-**Demo**
-[Open in Streamlit]
+**Demo**<br>
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nccesareananalysis.streamlit.app)
+
 
 **Screenshot**<br>
 <img src="/GitHubScreenshot.png" alt="Description" width="500"/>
