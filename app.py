@@ -6,6 +6,7 @@ import numpy as np
 import folium
 import json
 import plotly.express as px
+import streamlit.components.v1 as components
 
 import plotly.graph_objs as go
 from plotly.subplots import make_subplots
