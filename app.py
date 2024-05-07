@@ -91,6 +91,7 @@ st.write("As of 2021, South Dakota has the lowest C-section rate with an average
 st.markdown("---")
 
 #County-specific map
+@st.cache_data
 def load_data():
     geo_data = gpd.read_file('data/Merged_County_Data.geojson')
     geo_data.drop(columns=['ck_date'], inplace=True)
@@ -98,7 +99,8 @@ def load_data():
     geo_data['PERCENT'] = geo_data['PERCENT'].astype(float)
     return geo_data
 
-geo_data = load_data()
+county_geojson_path = 'data/Merged_County_Data.geojson'
+geo_data = load_county_data(county_geojson_path)
 
 def generate_map(county=None):
     if county:
