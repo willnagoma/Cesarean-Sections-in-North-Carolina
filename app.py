@@ -36,7 +36,7 @@ merged_data = pd.merge(geo_data, csv_data, left_on='shapeName', right_on='shapeN
 
 #State-specific US map
 def load_data():
-    geo_data = gpd.read_file('UScsectionrates.geojson')
+    geo_data = gpd.read_file('data/UScsectionrates.geojson')
     geo_data.dropna(subset=['YEAR', 'RATE'], inplace=True)  
     geo_data['YEAR'] = geo_data['YEAR'].astype(int)
     geo_data['RATE'] = geo_data['RATE'].astype(float)
