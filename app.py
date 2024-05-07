@@ -29,7 +29,7 @@ st.markdown("---")
 
 #Merging JSON and CSV to have one file with rates and coordinates
 csv_file_path = 'data/stateavgs.csv'  
-geojson_file_path = 'usstates.geojson'  
+geojson_file_path = 'data/usstates.geojson'  
 csv_data = pd.read_csv(csv_file_path)
 geo_data = gpd.read_file(geojson_file_path)
 merged_data = pd.merge(geo_data, csv_data, left_on='shapeName', right_on='shapeName', how='inner')
@@ -90,7 +90,7 @@ st.markdown("---")
 
 #County-specific map
 def load_data():
-    geo_data = gpd.read_file('Merged_County_Data.geojson')
+    geo_data = gpd.read_file('data/Merged_County_Data.geojson')
     geo_data.drop(columns=['ck_date'], inplace=True)
     geo_data['County'] = geo_data['County'].astype(str)
     geo_data['PERCENT'] = geo_data['PERCENT'].astype(float)
