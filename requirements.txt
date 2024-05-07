@@ -5,46 +5,6 @@ patsy==0.5.6
 plotly==5.21.0
 plotly-express==0.4.1
 protobuf==3.20.3
-referencing @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_15mb8b6xor/croot/referencing_1699012045485/work
-requests @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4fp_3tflo8/croot/requests_1707355574897/work
-rfc3339-validator @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_07a1ken4gz/croot/rfc3339-validator_1683077050666/work
-rfc3986-validator @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6dzvsqx89i/croot/rfc3986-validator_1683059150431/work
-rich @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_31bd74sw_8/croot/rich_1684282176000/work
-rpds-py @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_e9l2yxcal2/croot/rpds-py_1698945951668/work
-Rtree @ file:///Users/runner/miniforge3/conda-bld/rtree_1705697919940/work
-s3transfer @ file:///home/conda/feedstock_root/build_artifacts/s3transfer_1710497251148/work
-scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1712824642191/work
-scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1712255290591/work/dist/scipy-1.13.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=645aa6ac3572a3ad93dbbc6106e58abaabaad8df08e66e9e97e782d993bac263
-Send2Trash @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6c5du7dh0i/croot/send2trash_1699371145992/work
-shapely @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_73st2w3xix/croot/shapely_1680636308240/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
-sniffio @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a46njf828g/croot/sniffio_1705431298111/work
-soupsieve @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_9cjy8iflks/croot/soupsieve_1696347576367/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels==0.14.2
-streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1712273954203/work
 streamlit_folium==0.19.1
-tenacity @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cct5tq4h70/croot/tenacity_1682972283326/work
-terminado @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_18_p3gbeio/croot/terminado_1671751835656/work
-threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1710943558485/work
-tinycss2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_56dshjmms6/croot/tinycss2_1668168824483/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tomli @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_90762ba4-f339-47e8-bd29-416854a59b233d27hku_/croots/recipe/tomli_1657175507767/work
-toolz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a7gkswah88/croot/toolz_1667464082910/work
-tornado @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_65x80foild/croot/tornado_1696936984963/work
-traitlets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0dtilxc0bw/croot/traitlets_1671143889152/work
-typing_extensions @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_31f_f02huc/croot/typing_extensions_1705599310686/work
-tzdata @ file:///croot/python-tzdata_1690578112552/work
-tzlocal @ file:///Users/runner/miniforge3/conda-bld/tzlocal_1698012985951/work
-unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1695848189757/work
-uritemplate @ file:///home/conda/feedstock_root/build_artifacts/uritemplate_1634152692041/work
-urllib3 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_cb4f5apn6b/croot/urllib3_1707770574455/work
-validators @ file:///home/conda/feedstock_root/build_artifacts/validators_1713541205621/work
-watchdog @ file:///Users/runner/miniforge3/conda-bld/watchdog_1707295179923/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
-websocket-client @ file:///Users/builder/ci_310/websocket-client_1642513572726/work
-widgetsnbextension @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_55iz0tfo89/croot/widgetsnbextension_1710960056659/work
-xyzservices @ file:///home/conda/feedstock_root/build_artifacts/xyzservices_1712209912887/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
