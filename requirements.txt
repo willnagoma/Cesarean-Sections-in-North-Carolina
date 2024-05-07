@@ -1,15 +1,4 @@
 click-plugins==1.1.1
-cligj @ file:///home/conda/feedstock_root/build_artifacts/cligj_1633637764473/work
-comm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_aef2nlxc2o/croot/comm_1709322866518/work
-contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1712429945256/work
-cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
-debugpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_30hp2nowkm/croot/debugpy_1690905056188/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-exceptiongroup @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f147j11jio/croot/exceptiongroup_1706031400682/work
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-fastjsonschema @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b5c1gee32t/croots/recipe/python-fastjsonschema_1661368622875/work
-Fiona @ file:///Users/runner/miniforge3/conda-bld/fiona_1676029806884/work
 folium @ file:///home/conda/feedstock_root/build_artifacts/folium_1709209270269/work
 fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1712344640998/work
 GDAL @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_1em3xrx8kv/croot/gdal-split_1704913255342/work/build/swig/python
