@@ -5,8 +5,8 @@ This app is designed to explore the factors and implications of low-risk cesarea
 **Demo**
 [Open in Streamlit]
 
-**Screenshot**
-![Logo](/GitHubScreenshot.png)
+**Screenshot**<br>
+<img src="/GitHubScreenshot.png" alt="Description" width="500"/>
 
 **How to run this app**<br>
 conda install requirements.txt<br>
