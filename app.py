@@ -28,7 +28,7 @@ st.write("Maternal care interventions like cesarean sections, episiotomies, and 
 st.markdown("---")
 
 #Merging JSON and CSV to have one file with rates and coordinates
-csv_file_path = 'stateavgs.csv'  
+csv_file_path = 'data/stateavgs.csv'  
 geojson_file_path = 'usstates.geojson'  
 csv_data = pd.read_csv(csv_file_path)
 geo_data = gpd.read_file(geojson_file_path)
