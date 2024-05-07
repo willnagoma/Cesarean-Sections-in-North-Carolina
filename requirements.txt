@@ -1,7 +1,4 @@
 click-plugins==1.1.1
-folium @ file:///home/conda/feedstock_root/build_artifacts/folium_1709209270269/work
-fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1712344640998/work
-GDAL @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_1em3xrx8kv/croot/gdal-split_1704913255342/work/build/swig/python
 geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1706734678866/work
 gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_027sj4e4m2/croot/gitpython_1696936986392/work
