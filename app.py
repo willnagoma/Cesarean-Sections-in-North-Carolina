@@ -92,8 +92,8 @@ st.markdown("---")
 
 #County-specific map
 @st.cache_data
-def load_data():
-    geo_data = gpd.read_file('data/Merged_County_Data.geojson')
+def load_county_data(geojson_file_path):
+    geo_data = gpd.read_file(geojson_file_path)
     geo_data.drop(columns=['ck_date'], inplace=True)
     geo_data['County'] = geo_data['County'].astype(str)
     geo_data['PERCENT'] = geo_data['PERCENT'].astype(float)
