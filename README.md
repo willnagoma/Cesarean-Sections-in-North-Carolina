@@ -17,7 +17,8 @@ streamlit run app.py
 [Databook](schs.dph.ncdhhs.gov/data/databook)<br> 
 [National Library of Medicine](ncbi.nlm.nih.gov)<br>
 [American Health Rankings](americashealthrankings.org)<br>
-[The Leapfrog Group](leapfroggroup.org)
+[The Leapfrog Group](leapfroggroup.org)<br>
+[ChatGPT](chatgpt.com)<br>
 
 **Author**
 Willna Goma
