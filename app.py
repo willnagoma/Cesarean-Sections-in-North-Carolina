@@ -28,19 +28,13 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 st.write("Maternal care interventions like cesarean sections, episiotomies, and early elective deliveries can present a host of dangerous complications like **blood clots**, **infections**, and **longer recovery**.  Women who have one C-section are predisposed to having another, while some hospitals do not offer vaginal delivery after C-Section (VBAC) at all.")
 st.markdown("---")
 
-#Merging JSON and CSV to have one file with rates and coordinates
-import pandas as pd
-import geopandas as gpd
+#Loading data
+csv_file_path = 'data/stateavgs.csv'  
+geojson_file_path = 'data/usstates.geojson'  
 
-# Replace 'YOUR_GITHUB_USERNAME' and 'YOUR_REPO' with your actual GitHub details
-GITHUB_CSV_URL = "https://raw.githubusercontent.com/willnagoma/Cesarean-Sections-in-North-Carolina/main/data/stateavgs.csv"
-GITHUB_GEOJSON_URL = "https://raw.githubusercontent.com/willnagoma/Cesarean-Sections-in-North-Carolina/main/data/usstates.geojson"
+csv_data = pd.read_csv(csv_file_path)
+geo_data = gpd.read_file(geojson_file_path)
 
-# Load data directly from GitHub
-csv_data = pd.read_csv(GITHUB_CSV_URL)
-geo_data = gpd.read_file(GITHUB_GEOJSON_URL)
-
-# Merge DataFrames
 merged_data = pd.merge(geo_data, csv_data, left_on='shapeName', right_on='shapeName', how='inner')
 
 #State-specific US map
