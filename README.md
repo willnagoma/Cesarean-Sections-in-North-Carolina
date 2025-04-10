@@ -18,6 +18,7 @@ streamlit run app.py
 [National Library of Medicine](ncbi.nlm.nih.gov)<br>
 [American Health Rankings](americashealthrankings.org)<br>
 [The Leapfrog Group](leapfroggroup.org)<br>
+[ChatGPT](chatgpt.com)<br>
 
 
 **Author**
