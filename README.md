@@ -11,7 +11,7 @@ This app is designed to explore the factors and implications of low-risk cesarea
 
 **How to run this app**<br>
 conda install requirements.txt<br>
-
+streamlit run app.py
 
 **Sources**<br>
 [Databook](schs.dph.ncdhhs.gov/data/databook)<br> 
