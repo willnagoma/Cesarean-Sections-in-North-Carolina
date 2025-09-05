@@ -22,7 +22,9 @@ st.write("<h1 style='text-align: center;'>Cesarean Deliveries in North Carolina<
 st.write("#### <div style='text-align: center; font-style: italic;'>Malpractice or medical necessity?</div>", unsafe_allow_html=True)
 
 # Load header image from root directory
-st.image('delivered_baby.jpeg', width=400)
+col1, col2, col3 = st.columns([1, 2, 1])
+with col2:
+    st.image('delivered_baby.jpeg', width=800)
 
 st.write("###### <div style='text-align: center; font-weight: normal;'>This app is designed to explore the factors and implications of low-risk cesarean deliveries.  Low-risk is defined by the CDC as singleton, head-first, full-term (37 or more completed weeks) first births.</div>", unsafe_allow_html=True)
 st.write("###### <div style='text-align: center; font-weight: normal;'>By Willna Goma</div>", unsafe_allow_html=True)
